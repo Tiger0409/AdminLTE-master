@@ -29,30 +29,46 @@ Contribution are always **welcome and recommended**! Here is how:
 
 ### Install
  
- Installation
-There are multiple ways to install AdminLTE.
+   Installation
+  There are multiple ways to install AdminLTE.
 
-Download:
+  Download:
 
-Download from Github or visit Almsaeed Studio and download the latest release.
+  Download from Github or visit Almsaeed Studio and download the latest release.
 
-Using The Command Line:
+#### https://themequarry.com/theme/adminlte-admin-template-simple-dashboard-ASFEDA82
 
-Github
+   Using The Command Line:
 
-Fork the repository (here is the guide).
-Clone to your machine
-git clone https://github.com/YOUR_USERNAME/AdminLTE.git
-Bower
+   Github
 
-bower install admin-lte
-npm
+   Fork the repository (here is the guide).
+   Clone to your machine
+   git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+   Bower
 
-npm install --save admin-lte
+    Installation
+   There are multiple ways to install AdminLTE.
+
+   Download:
+
+   Download from Github or visit Almsaeed Studio and download the latest release.
+
+   Using The Command Line:
+
+   Github
+
+   Fork the repository (here is the guide).
+   Clone to your machine
+   git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+   Bower
+
+#### bower install admin-lte
+#### npm
+
+#### npm install --save admin-lte
 Composer
 
-composer require "almasaeed2010/adminlte=~2.0"
-Documentation
 Visit the online documentation for the most updated guide. Information will be added on a weekly basis.
 
 #### Contribution Requirements:
