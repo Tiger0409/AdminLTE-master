@@ -27,6 +27,34 @@ Contribution are always **welcome and recommended**! Here is how:
 - Make your changes
 - Create a pull request
 
+### Install
+ 
+ Installation
+There are multiple ways to install AdminLTE.
+
+Download:
+
+Download from Github or visit Almsaeed Studio and download the latest release.
+
+Using The Command Line:
+
+Github
+
+Fork the repository (here is the guide).
+Clone to your machine
+git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+Bower
+
+bower install admin-lte
+npm
+
+npm install --save admin-lte
+Composer
+
+composer require "almasaeed2010/adminlte=~2.0"
+Documentation
+Visit the online documentation for the most updated guide. Information will be added on a weekly basis.
+
 #### Contribution Requirements:
 
 - When you contribute, you agree to give a non-exclusive license to AdminLTE.IO to use that contribution in any context as we (AdminLTE.IO) see appropriate.
